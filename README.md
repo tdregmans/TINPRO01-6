@@ -8,3 +8,7 @@ Deze module behandelt een aantal theoretische onderwerpen uit de informatica die
 
 ### Opdracht 1
 Voor opdracht 1, in opgave 9 hebben we een stukje code geschreven. Dat is hier te vinden.
+
+### Opdracht 2
+
+### Opdracht 3
