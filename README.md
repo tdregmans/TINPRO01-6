@@ -10,5 +10,7 @@ Deze module behandelt een aantal theoretische onderwerpen uit de informatica die
 Voor opdracht 1, in opgave 9 hebben we een stukje code geschreven. Dat is hier te vinden.
 
 ### Opdracht 2
+Voor opdracht 2, opgave 2, 5, 6, 7 en 8 moest code geschreven worden.
 
 ### Opdracht 3
+Voor opdracht 3, opgave 1 moest code geschreven worden.
